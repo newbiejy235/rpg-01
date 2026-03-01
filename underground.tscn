@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://dthj5qvbg6w5s"]
+
+[sub_resource type="TileSet" id="TileSet_4tswl"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="TileMapLayer" type="TileMapLayer" parent="."]
+rotation = -5.03702
+scale = Vector2(3, 3)
+tile_set = SubResource("TileSet_4tswl")
